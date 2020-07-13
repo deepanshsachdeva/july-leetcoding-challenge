@@ -15,3 +15,4 @@
   3. Flatten a Multilevel Doubly Linked List - Problem [#430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
   4. Subsets - Problem [#78](https://leetcode.com/problems/subsets/)
   5. Reverse Bits - Problem [#190](https://leetcode.com/problems/reverse-bits/)
+  6. Same Tree - Problem [#100](https://leetcode.com/problems/same-tree/)
