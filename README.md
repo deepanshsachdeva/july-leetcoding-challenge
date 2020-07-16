@@ -20,3 +20,5 @@
 
 ## Week 3
   1. Reverse Words in a String - Problem [#151](https://leetcode.com/problems/reverse-words-in-a-string/)
+  2. Pow(x,n) - Problem [#50](https://leetcode.com/problems/powx-n/)
+
