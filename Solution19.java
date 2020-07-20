@@ -6,7 +6,7 @@ class Solution {
         int bi = b.length()-1;
         int c = 0;
         
-        while(ai>=0 && bi>=0){
+        while(ai>=0 || bi>=0){
             int sum = c;
             
             if(ai>=0)
