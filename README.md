@@ -26,3 +26,6 @@
   5. Add Binary - Problem [#67](https://leetcode.com/problems/add-binary/)
   6. Remove Linked List Elements - Problem [#203](https://leetcode.com/problems/remove-linked-list-elements/)
   7. Word Search - Problem [#79](https://leetcode.com/problems/word-search/)
+
+## Week 4
+  1. Binary Tree Zigzag Level Order Traversal - Problem [#103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
