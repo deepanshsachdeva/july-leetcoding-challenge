@@ -33,3 +33,4 @@
   3. All Paths From Source to Target - Problem [#797](https://leetcode.com/problems/all-paths-from-source-to-target/)
   4. Find Minimum in Rotated Sorted Array II - Problem [#154](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
   5. Add digits - Problem [#258](https://leetcode.com/problems/add-digits/)
+  6. Construct Binary Tree from Inorder and Postorder Traversal - Problem [#106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
